@@ -1,4 +1,4 @@
-# PicoGYM WriteUps
+# PicoCTF WriteUps
 
 Write-ups for various challenges from [PicoCTF](https://picoctf.org/).
 
@@ -12,8 +12,20 @@ Write-ups for various challenges from [PicoCTF](https://picoctf.org/).
 
 ## Challenges
 
+### picoCTF2022
+
+> Will be added shortly
+
+### picoGym
+
 |Challenge|Points|
 |--------|------|
+<<<<<<< HEAD
 |[Obedient Cat](./ObedientCat/ObedientCat.md)|5|
 |[Mod 26](./Mod26/Mod26.md)|10|
 |[Matryoshka doll](./MatryoshkaDoll/MatryoshkaDoll.md)|30|
+=======
+|[Obedient Cat](./picoGYm/ObedientCat/ObedientCat.md)|5|
+|[Mod 26](./picoGYm/Mod26/Mod26.md)|10|
+|[Matryoshka doll](./picoGYm/MatryoshkaDoll/MatryoshkaDoll.md)|30|
+>>>>>>> 41b4213 (Changed structure of repository.)
