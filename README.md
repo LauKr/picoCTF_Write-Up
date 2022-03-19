@@ -16,4 +16,4 @@ Write-ups for various challenges from [PicoCTF](https://picoctf.org/).
 |--------|------|
 |[Obedient Cat](./ObedientCat/ObedientCat.md)|5|
 |[Mod 26](./Mod26/Mod26.md)|10|
-|[Matryoshka doll](./MatryoshkaDoll/MatryoshkaDoll.md)|10|
+|[Matryoshka doll](./MatryoshkaDoll/MatryoshkaDoll.md)|30|
