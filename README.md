@@ -11,6 +11,11 @@ Write-ups for various challenges from [PicoCTF](https://picoctf.org/).
 > "Build your CTF skills, help yourself advance your personal best score, and prepare for the big show using our mini Competitions to practice."
 ## Challenges
 
+### picoCTF 2022
+> Will be added soon (After the CTF ends on March 29th)
+
+### picoGym
+
 |Challenge|Points|
 |--------|------|
 |[Obedient Cat](./picoGym/ObedientCat/ObedientCat.md)|5|
