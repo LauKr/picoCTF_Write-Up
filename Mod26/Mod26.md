@@ -26,6 +26,11 @@ This can be solved online if you don't want to do it by hand!
 The flag was 'encrypted' using Rot13, a Caesar cipher. It works by shifting every letter by 13.
 In fact it's a substitution of `a -> n, b -> o, c -> p` and so on.
 
+A shifted text can be translated by using the command 
+```bash
+tr 'A-Za-z' 'N-ZA-Mn-za-m' <<< "Text"
+```
+
 ## Flag
 
 <details><summary>Show flag</summary>
