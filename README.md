@@ -22,3 +22,4 @@ Write-ups for various challenges from [PicoCTF](https://picoctf.org/).
 |[Mod 26](./picoGym/Mod26/Mod26.md)|10|
 |[Matryoshka doll](./picoGym/MatryoshkaDoll/MatryoshkaDoll.md)|30|
 |[crackme-py](./picoGym/crackme-py/crackme-py.md)|30|
+|[2Warm](./picoGym/2Warm/2Warm.md)|50|
