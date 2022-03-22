@@ -21,3 +21,4 @@ Write-ups for various challenges from [PicoCTF](https://picoctf.org/).
 |[Obedient Cat](./picoGym/ObedientCat/ObedientCat.md)|5|
 |[Mod 26](./picoGym/Mod26/Mod26.md)|10|
 |[Matryoshka doll](./picoGym/MatryoshkaDoll/MatryoshkaDoll.md)|30|
+|[crackme-py](./picoGym/crackme-py/crackme-py.md)|30|
