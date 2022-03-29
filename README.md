@@ -12,7 +12,8 @@ Write-ups for various challenges from [PicoCTF](https://picoctf.org/).
 ## Challenges
 
 ### picoCTF 2022
-> Will be added soon (After the CTF ends on March 29th)
+> ~Will be added soon (After the CTF ends on March 29th)~  
+> Are added and will be linked from thi file soon
 
 ### picoGym
 
