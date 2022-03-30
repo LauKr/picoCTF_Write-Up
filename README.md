@@ -12,8 +12,35 @@ Write-ups for various challenges from [PicoCTF](https://picoctf.org/).
 ## Challenges
 
 ### picoCTF 2022
-> ~Will be added soon (After the CTF ends on March 29th)~  
-> Are added and will be linked from thi file soon
+
+|Challenge|Category|Points|
+|--------|------|--|
+|[basic-mod1](picoCTF2022/basic-mod1/README.md)|Cryptography|100|
+|[basic-mod2](picoCTF2022/basic-mod2/README.md)|Cryptography|100|
+|[credstuff](picoCTF2022/credstuff/README.md)|Cryptography|100|
+|[substitution0](picoCTF2022/substitution0/README.md)|Cryptography|100|
+|[morse-code](picoCTF2022/morse-code/README.md)|Cryptography|100|
+|[CVE-XXXX-XXXX](picoCTF2022/CVE-XXXX-XXXX/README.md)|Binary Exploitation|100|
+|[basic-file-exploit](picoCTF2022/basic-file-exploit/README.md)|Binary Exploitation|100|
+|[RPS](picoCTF2022/RPS/README.md)|Binary Exploitation|200|
+|[Includes](picoCTF2022/Includes/README.md)|Web Exploitation|100|
+|[Inspect HTML](picoCTF2022/Inspect_HTML/README.md)|Web Exploitation|100|
+|[Search source](picoCTF2022/Search_source/README.md)|Web Exploitation|100|
+|[Local Authority](picoCTF2022/Local_Authority/README.md)|Web Exploitation|100|
+|[Power Cookie](picoCTF2022/Power_Cookie/README.md)|Web Exploitation|200|
+|[Roboto Sans](picoCTF2022/Roboto_Sans/README.md)|Web Exploitation|200|
+|[Forbidden Paths](picoCTF2022/Forbidden_Paths/README.md)|Web Exploitation|200|
+|[Secrets](picoCTF2022/Secrets/README.md)|Web Exploitation|200|
+|[SQLiLite](picoCTF2022/SQLiLite/README.md)|Web Exploitation|300|
+|[file-run1](picoCTF2022/file-run1/README.md)|Reverse Engineering|100|
+|[file-run2](picoCTF2022/file-run2/README.md)|Reverse Engineering|100|
+|[Safe Opener](picoCTF2022/Safe_Opener/README.md)|Reverse Engineering|100|
+|[patchme.py](picoCTF2022/patchme.py/README.md)|Reverse Engineering|100|
+|[unpackme.py](picoCTF2022/unpackme.py/README.md)|Reverse Engineering|100|
+|[unpackme](picoCTF2022/unpackme/README.md)|Reverse Engineering|300|
+
+
+
 
 ### picoGym
 
