@@ -1,4 +1,4 @@
-# picoCTF 2022: Forbidden Paths
+# picoCTF 2022: Secrets
 
 Author: Geoffrey Njogu
 
